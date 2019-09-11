@@ -1,2 +1,2 @@
-# procurement
+# Procurement
 PROCUREMENT_SYSTEM
