@@ -1,2 +1,2 @@
-# Procurement
-PROCUREMENT_SYSTEM
+# Inventory
+INVENTORY_SYSTEM
